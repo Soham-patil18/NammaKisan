@@ -187,7 +187,7 @@ App will run on http://localhost:3000
 ## 👨‍💻 Author  
 
 **soham patil**  
-- 🌍 [GitHub Profile](https://github.com/Soham-patil18)
+- 🌍 [GitHub Profile](https://github.com/Soham-patil18)<br>
 📧 Email: sohampatil49690@gmail.com<br>
 
 

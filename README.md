@@ -187,8 +187,7 @@ App will run on http://localhost:3000
 ## 👨‍💻 Author  
 
 **soham patil**  
-💼 Aspiring MERN Stack Developer    
-🌐 Passionate about building meaningful, farmer-centric web solutions<br> 
+- 🌍 [GitHub Profile](https://github.com/Soham-patil18)
 📧 Email: sohampatil49690@gmail.com<br>
 
 

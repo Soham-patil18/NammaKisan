@@ -24,7 +24,7 @@ Recruiters and collaborators can:
 **NammaKisan** is a full-stack **Farm-to-Consumer web application** that connects **farmers directly with customers** — eliminating middlemen and ensuring fair prices.  
 Built with **React, Node.js, Express, and MongoDB**, it enables farmers to **list their products**, and customers to **browse, order, and track deliveries** seamlessly.  
 
-🔗 **Live Demo (Frontend)**: [NammaKisan on Render](https://nammakisan-frontend1.onrender.com)   
+🔗 **Live Demo (Frontend)**: [NammaKisan on Render](https://soham-patil18.github.io/NammaKisan/)   
 
 ---
 ## ▶️ Project Demo Video
@@ -188,6 +188,8 @@ App will run on http://localhost:3000
 
 **soham patil**  
  [GitHub Profile](https://github.com/Soham-patil18)
+ <br>
+ 🔗 Live Project:https://soham-patil18.github.io/NammaKisan/
 <br>
  📧 Email: sohampatil49690@gmail.com<br>
 
